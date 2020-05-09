@@ -1,0 +1,19 @@
+.sentence {
+  font-size: larger;
+  color: blueviolet;
+  font-weight: 700;
+}
+
+.dup {
+  font-size: small;
+  font-style: oblique;
+  color: red;
+  font-weight: 700;
+}
+
+
+
+.button{
+
+  background: green;
+}
